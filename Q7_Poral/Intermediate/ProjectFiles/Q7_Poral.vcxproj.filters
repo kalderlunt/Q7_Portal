@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Q7_Poral.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Q7_Poral.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Q7_PoralEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Q7_Poral">
+      <UniqueIdentifier>{7FE12385-B25A-3C65-BB6F-D8B9B66D13C1}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Q7_Poral\Q7_Poral.Build.cs">
+      <Filter>Source\Q7_Poral</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Q7_Poral\Q7_Poral.cpp">
+      <Filter>Source\Q7_Poral</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Q7_Poral\Q7_Poral.h">
+      <Filter>Source\Q7_Poral</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Q7_Poral\Q7_PoralCharacter.cpp">
+      <Filter>Source\Q7_Poral</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Q7_Poral\Q7_PoralCharacter.h">
+      <Filter>Source\Q7_Poral</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Q7_Poral\Q7_PoralGameMode.cpp">
+      <Filter>Source\Q7_Poral</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Q7_Poral\Q7_PoralGameMode.h">
+      <Filter>Source\Q7_Poral</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

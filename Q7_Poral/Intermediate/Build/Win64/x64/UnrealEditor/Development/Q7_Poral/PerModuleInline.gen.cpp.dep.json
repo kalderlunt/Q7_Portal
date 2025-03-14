@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\onedrive - la horde\\b2\\quetes\\q7_portal\\q7_portal\\q7_poral\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\q7_poral\\permoduleinline.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\onedrive - la horde\\b2\\quetes\\q7_portal\\q7_portal\\q7_poral\\intermediate\\build\\win64\\x64\\q7_poraleditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\onedrive - la horde\\b2\\quetes\\q7_portal\\q7_portal\\q7_poral\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\q7_poral\\definitions.q7_poral.h",
+            "d:\\unreal\\ue_5.5\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

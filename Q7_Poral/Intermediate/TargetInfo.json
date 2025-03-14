@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Q7_Poral",
+			"Path": "..\\Source\\Q7_Poral.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Q7_PoralEditor",
+			"Path": "..\\Source\\Q7_PoralEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
