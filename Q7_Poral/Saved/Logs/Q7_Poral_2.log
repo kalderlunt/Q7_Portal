@@ -1632,3 +1632,36 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.03.14-12.44.42:778][737]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1707.652222
 [2025.03.14-12.44.43:778][740]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.03.14-12.44.43:778][740]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1708.318481, Update Interval: 300.069580
+[2025.03.14-12.50.17:238][375]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2042.110229
+[2025.03.14-12.50.18:572][379]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.14-12.50.18:572][379]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2043.110107, Update Interval: 359.003876
+[2025.03.14-12.55.20:723][286]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Haut-parleurs (Realtek(R) Audio), InstanceID=1
+[2025.03.14-12.55.20:954][286]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.03.14-12.55.20:954][286]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=17304
+[2025.03.14-12.55.21:952][289]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.03.14-12.55.21:955][289]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{13319469-ba27-4f39-b955-175dc7954511}, Name=Haut-parleurs (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=836.15
+[2025.03.14-12.55.21:955][289]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.03.14-12.55.21:957][289]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.03.14-12.57.01:642][588]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2446.509521
+[2025.03.14-12.57.02:643][591]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.14-12.57.02:643][591]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2447.176270, Update Interval: 359.467163
+[2025.03.14-13.03.35:407][769]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2840.277344
+[2025.03.14-13.03.36:407][772]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.14-13.03.36:407][772]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2840.943604, Update Interval: 314.784393
+[2025.03.14-13.08.52:889][722]LogDerivedDataCache: C:/Users/kalde/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.001 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.03.14-13.09.36:130][851]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3200.996582
+[2025.03.14-13.09.37:130][854]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.14-13.09.37:130][854]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3201.663330, Update Interval: 317.946716
+[2025.03.14-13.15.38:197][937]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3563.062744
+[2025.03.14-13.15.39:198][940]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.14-13.15.39:198][940]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3563.729492, Update Interval: 318.322083
+[2025.03.14-13.21.44:262][ 35]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3929.127686
+[2025.03.14-13.21.45:262][ 38]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.14-13.21.45:262][ 38]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3929.794434, Update Interval: 347.634521
+[2025.03.14-13.28.29:991][252]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4334.877930
+[2025.03.14-13.28.30:990][255]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.14-13.28.30:990][255]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4335.544434, Update Interval: 352.906281
+[2025.03.14-13.35.18:394][477]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4743.313477
+[2025.03.14-13.35.19:394][480]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.14-13.35.19:394][480]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4743.979980, Update Interval: 305.951111
+[2025.03.14-13.36.22:227][211]LogChaosDD: Creating Chaos Debug Draw Scene for world World_1
