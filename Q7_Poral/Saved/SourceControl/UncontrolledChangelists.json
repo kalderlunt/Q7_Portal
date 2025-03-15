@@ -5,7 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/OneDrive - La Horde/B2/Quetes/Q7_Portal/Q7_Portal/Q7_Poral/Content/StarterContent/Architecture/Floor_400x400.uasset"
+				"D:/OneDrive - La Horde/B2/Quetes/Q7_Portal/Q7_Portal/Q7_Poral/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/OneDrive - La Horde/B2/Quetes/Q7_Portal/Q7_Portal/Q7_Poral/Content/PortalSystem/Portal_BP.uasset",
+				"D:/OneDrive - La Horde/B2/Quetes/Q7_Portal/Q7_Portal/Q7_Poral/Content/PortalSystem/Portal_MAT.uasset",
+				"D:/OneDrive - La Horde/B2/Quetes/Q7_Portal/Q7_Portal/Q7_Poral/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/7T/NK29UVRMJ8UN47R5P1ZDSO.uasset",
+				"D:/OneDrive - La Horde/B2/Quetes/Q7_Portal/Q7_Portal/Q7_Poral/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/OY/VYS545L0Z4Q31A7L1DSOUM.uasset",
+				"D:/OneDrive - La Horde/B2/Quetes/Q7_Portal/Q7_Portal/Q7_Poral/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/AZ/A7GPT109Y6ZTTJD4A7TXER.uasset"
 			]
 		}
 	]
