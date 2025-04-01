@@ -260,6 +260,7 @@
     <None Include="..\..\Q7_Poral.uproject"/>
     <None Include="..\..\Source\Q7_Poral.Target.cs"/>
     <None Include="..\..\Source\Q7_PoralEditor.Target.cs"/>
+    <None Include="..\..\.vsconfig"/>
     <None Include="..\..\Config\DefaultEditor.ini"/>
     <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini"/>
     <None Include="..\..\Config\DefaultEngine.ini"/>
